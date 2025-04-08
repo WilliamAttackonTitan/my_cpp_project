@@ -1,6 +1,6 @@
 #include<iostream>
 
-int main(){
+int go(){
 	std::cout<< "gogogo" << std::endl;
 	return 0;
 }
